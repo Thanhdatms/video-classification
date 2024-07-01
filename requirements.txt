@@ -4,14 +4,18 @@ ipython
 isort
 jupyterlab
 loguru
-matplotlib
+matplotlib == 3.7.1
 mkdocs
 notebook
-numpy
+numpy == 1.25.2
 pandas
 pip
 python-dotenv
 scikit-learn
-tqdm
+tqdm == 4.66.4
 typer
 -e .
+cv2 == 4.8.0
+np_utils == 0.6.0
+keras == 2.15.0
+tensorflow == 2.15.0
